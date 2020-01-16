@@ -1,4 +1,7 @@
 function demoLog () {
   console.log('Success-ok')
 }
-export { demoLog }
+function adds () {
+  console.log('add-ok')
+}
+export { demoLog, adds }
