@@ -27,7 +27,7 @@ npm run lint
 
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+See [Configuration Reference](https://cli.vuejs.org/zh/config/).
 ### vuecli4
 
 ###     vue.config.js 配置  借鉴

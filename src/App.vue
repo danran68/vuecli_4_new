@@ -78,7 +78,7 @@
   </div>
 </template>
 <script>
-import { demoLog } from './assets/js/demo.js'
+import { demoLog } from './assets/js/appvue.js'
 import $ from 'jquery'
 $(function () {
   $('.body').click(function (event) {
