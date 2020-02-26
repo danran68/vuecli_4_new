@@ -4,7 +4,7 @@
       <el-container>
         <el-header>
           <div class="head-left">
-            <h3>后台管理系统</h3>
+            <h3>DEMO管理系统</h3>
           </div>
           <el-radio-group v-model="isCollapse">
               <el-radio-button :label="false">展开</el-radio-button>
